@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-#### :smile: Olá, tudo bem? Seja bem vindo, me chamo Wladmir Rodrigues, tenho 23 anos, atualmente cursando Análise e Desenvolvimento e também curso dev back-end na Digital House.
+#### :smile: Olá, tudo bem? Seja bem vindo, me chamo Wladmir Rodrigues, tenho 24 anos, atualmente cursando Análise e Desenvolvimento e também curso dev back-end na Digital House.
   <div align='center'> 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=getwlad&show_icons=true&theme=tokyonight)
