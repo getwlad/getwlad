@@ -1,35 +1,61 @@
 # Wladmir Rodrigues
 
-<a  href="https://www.linkedin.com/in/wladmir-rodrigues" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="height: 20px"> <span>Wladmir Rodrigues </span></a>
+<a href="https://www.linkedin.com/in/wladmir-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Wladmir%20Rodrigues-informational?logo=linkedin" target="_blank" style="height: 20px"> </a>
+<a href="mailto:wladmir.rrodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-wladmir.rrodrigues%40gmail.com-red?logo=gmail&labelColor=white" target="_blank" style="height: 20px"> </a>
+
 
 ## Sobre mim
 
-#### :smile: Olá, tudo bem? Seja bem vindo, me chamo Wladmir Rodrigues, tenho 24 anos, atualmente cursando Análise e Desenvolvimento e também curso dev back-end na Digital House.
-  <div align='center'> 
+#### :smile: Olá, tudo bem? Seja bem vindo, me chamo Wladmir Rodrigues, tenho 24 anos, atualmente cursando Análise e Desenvolvimento.
+  <div align='center''> 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=getwlad&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getwlad&layout=compact&theme=tokyonight)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getwlad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getwlad&layout=compact&langs_count=7&theme=radical"/> 
+
 </div>
 
-## Skills
-<p align="center">
-<img  style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img  style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  </p>
 
-## Estudarei futuramente
-<p align="center">
-<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
- </p>
+## Tecnologias
+### 
+
+### Linguagens
+<div align='center'>
+  
+ 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+   </div>
+
+### Frameworks
+<div align='center'>
+  
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  
+  
+ </div>
+ 
+ ### Outras tecnologias
+ <div align='center'>
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   </div>
 
  
-## Contato
-<p align="center">
- <a href="https://www.linkedin.com/in/wladmir-rodrigues" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:wladmir.rrodrigues@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-          
+
+
           
  
           
