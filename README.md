@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-#### :smile: Olá, tudo bem? Seja bem vindo, me chamo Wladmir Rodrigues, tenho 24 anos, atualmente cursando Análise e Desenvolvimento.
+#### :smile: Olá, tudo bem? Seja bem vindo, me chamo Wladmir Rodrigues, tenho 25 anos, atualmente cursando Análise e Desenvolvimento.
   <div align='center''> 
   
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getwlad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
