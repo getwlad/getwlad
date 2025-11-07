@@ -4,7 +4,7 @@
 <a href="mailto:wladmir.rrodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-wladmir.rrodrigues%40gmail.com-red?logo=gmail&labelColor=white" target="_blank" style="height: 20px"> </a>
 
 
-## Sobre mim
+## About
 
 #### :smile: Hello, welcome.
   <div align='center''> 
@@ -15,9 +15,9 @@
 </div>
 
 
-## Tecnologias
+## Technology
 
-### Linguagens
+### Languages
  
 <div align='center'>
   
@@ -27,7 +27,7 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
    </div>
 
-### Frameworks e outros
+### Frameworks and others
 <div align='center'>
   
   
